@@ -56,5 +56,27 @@ My 2 hypothesis questions are
 ###############################################################################################
 
 
+The file name 50560534_Phase_2 contains the code for phase 2 along with phase1 .
 
+Phase 2 starts from Cell 140 to end 
 
+In class models used :
+
+1->KNN
+2->Naives
+3->Decision tree
+
+Textbook Models:
+
+1->SVM
+2--> Gradient boosting 
+
+My Questions 
+
+-->"How does the duration of elevated blood glucose levels impact the progression from 
+prediabetes to diabetes, and what is the critical time frame for intervention?"
+
+--> "Is there a specific BMI threshold beyond which the risk of developing diabetes increases exponentially, 
+and does this threshold differ based on gender and age?"
+
+ ###################################################################################################3#############
