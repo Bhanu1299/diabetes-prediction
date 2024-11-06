@@ -27,3 +27,22 @@ UBIT Number: 50592353
 email: adasarla@buffalo.edu
 
 #############################################################################################
+
+
+The file name 50606694_Projectphase_2 contains the code for phase 2 along with phase 1.
+
+Phase 2 code will start for cell 107 to 127 where i used Algoritms like Logistic regression, SVM, Random Forsest and Neural Network(MLP Classifer)
+
+The reason why i selected these algorithms and Difference between were clearly mentioned in cell block 127.
+
+I applied these 4 alorithms on the 2 hypothese questions from my phase 1 and they are from cell blocks 115 to 126.
+
+My 2 hypotesis questions are 
+
+1)How do various combinations of clinical indicators (e.g., BMI, hypertension, heart disease, HbA1c level) interact to influence the risk of diabetes?
+2) How do lifestyle factors (e.g., smoking history, physical inactivity) affect the onset and progression of diabetes across different demographic groups (age, gender)?
+#############################################################################################
+
+
+
+
