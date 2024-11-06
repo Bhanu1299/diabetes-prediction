@@ -85,3 +85,19 @@ prediabetes to diabetes, and what is the critical time frame for intervention?"
 and does this threshold differ based on gender and age?"
 
  ###################################################################################################3#############
+
+
+Done by Venkata Anudeep Bandi - 50606997
+The file name 50606997_Project Phase 2.ipynb contains the code for phase 2 only and 50606997_Project phase 2.pdf is the pdf version of the notebook file.
+Phase 2 starts from Cell 1 to end.
+
+In class algorithms used are:- Logestic Regression and Desition Tree.
+External algorithms used are:- DBSCAN (Density-Based Spatial Clustering of Applications with Noise).
+Citation or Reference:- "https://www.kdnuggets.com/2020/04/dbscan-clustering-algorithm-machine-learning.html". I have learnt and understood how this algorithm works and have put my
+                          own thoughts to implement my problem statement 3.
+
+
+
+My Questions are:-
+1.) How does the distribution of physical activity levels across different age groups impact the prediction of diabetes risk?
+2.) How do socioeconomic factors, such as income level and access to healthcare, influence the accuracy of diabetes prediction models?
