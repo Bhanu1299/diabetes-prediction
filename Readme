@@ -41,6 +41,11 @@ My 2 hypotesis questions are
 
 1)How do various combinations of clinical indicators (e.g., BMI, hypertension, heart disease, HbA1c level) interact to influence the risk of diabetes?
 2) How do lifestyle factors (e.g., smoking history, physical inactivity) affect the onset and progression of diabetes across different demographic groups (age, gender)?
+
+Reference: 
+https://www.geeksforgeeks.org/support-vector-machine-algorithm/ - For SVM 
+https://medium.com/data-science-in-your-pocket/understanding-partial-dependence-plots-pdps-415346b7e7f1 - For PDP Graph
+
 #############################################################################################
 
 
